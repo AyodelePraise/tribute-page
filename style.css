@@ -1,0 +1,26 @@
+body{
+    margin-bottom: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+main{
+    background-color: white;
+    width: 65em;
+    
+}
+p{
+    margin-bottom: 4em;
+    margin-left: 2em;
+}
+nav{
+    margin-left: 2em;
+}
+b{
+    font-weight: 500px;
+}
+h3{
+    font-weight: lighter;
+}
